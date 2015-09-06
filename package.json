@@ -1,7 +1,7 @@
 {
   "name": "top-performers",
   "productName": "Top Performers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Trey Erenberger <treye@iastate.edu>",
   "description": "Displays the number of commits per username as a pie chart.",
   "main": "main.html",
