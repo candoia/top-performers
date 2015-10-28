@@ -10,7 +10,7 @@
     "url": "https://github.com/candoia/noa-over-revisions"
   },
   "icon": {
-  	"type": "fa",
-  	"name": "pie-chart"
+    "type": "fa",
+    "name": "pie-chart"
   }
 }
