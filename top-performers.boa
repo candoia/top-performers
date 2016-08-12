@@ -5,7 +5,7 @@ DEVs : output sum[string] of int;
 
 visit(p, visitor {
     before rev : Revision -> {
-        if (committer != "")
+        if (len(rev.committer.username) > 0)
             DEVs[rev.committer.username] << 1;
     }   
 });
